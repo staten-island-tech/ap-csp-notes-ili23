@@ -8,5 +8,5 @@ function logger(){
     console.log("Party Time");
 }
 
-
+logger();
 
