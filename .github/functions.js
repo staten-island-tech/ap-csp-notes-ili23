@@ -6,6 +6,7 @@ function test(){ //function scope
     console.log("Party Time");
     console.log("Party Time");
     console.log("Party Time");
+    console.log("Party Time");
 }
 test();
 
